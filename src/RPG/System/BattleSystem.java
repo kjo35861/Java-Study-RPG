@@ -23,7 +23,4 @@ public class BattleSystem {
         round++;
     }
 
-//    public boolean isBattleOver() {
-//        return;
-//    }
 }
