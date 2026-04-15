@@ -5,7 +5,6 @@ import RPG.Route.RoutePath;
 import RPG.Route.Routes;
 import RPG.Start;
 import RPG.System.Monster;
-import RPG.System.Player;
 
 public class MainView implements View{
 

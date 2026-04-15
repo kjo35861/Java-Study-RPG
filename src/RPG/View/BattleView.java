@@ -3,7 +3,6 @@ package RPG.View;
 import RPG.Input.Input;
 import RPG.Route.RoutePath;
 import RPG.Route.Routes;
-import RPG.Start;
 import RPG.System.*;
 
 
