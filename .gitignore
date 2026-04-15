@@ -1,5 +1,7 @@
 ### IntelliJ IDEA ###
 target/
+.idea/
+.class
 !.mvn/wrapper/maven-wrapper.jar
 out/
 !**/src/main/**/out/
